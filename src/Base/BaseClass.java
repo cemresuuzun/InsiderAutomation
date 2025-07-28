@@ -17,6 +17,7 @@ public class BaseClass {
 
         driver.quit();
 
+
     }
     public void scrollToElement(WebElement element){
         JavascriptExecutor js = (JavascriptExecutor) element;
